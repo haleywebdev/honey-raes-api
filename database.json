@@ -59,6 +59,12 @@
             "name": "Renaud Erbe",
             "address": "30 Westridge Pass",
             "email": "rerbe9@psu.edu"
+        },
+        {
+            "id": 11,
+            "name": "Estrella Parisian",
+            "address": "2487 Ward Plains",
+            "email": "estrpa@hotmail.com"
         }
     ],
     "employees": [
@@ -85,7 +91,7 @@
         {
             "id": 2,
             "customerId": 7,
-            "employeeId": 4,
+            "employeeId": 2,
             "description": "Cannot connect to any wifi.",
             "emergency": true,
             "dateCompleted": ""
